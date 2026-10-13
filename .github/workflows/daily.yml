@@ -1,0 +1,67 @@
+name: 매일 계측뉴스 발송
+
+on:
+  schedule:
+    # 07:40 KST(=22:40 UTC)에 시작 → 수집·검증 후 08:00 KST에 카카오 발송
+    # (GitHub 예약 실행은 몇 분씩 늦게 시작될 수 있어 여유를 둠)
+    - cron: "40 22 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "실행 방식"
+        type: choice
+        default: "점검만 (카카오 발송 안 함)"
+        options:
+          - "점검만 (카카오 발송 안 함)"
+          - "지금 바로 발송"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      - name: 수집·원문 검증·뉴스판 생성·발송
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          KAKAO_REST_KEY: ${{ secrets.KAKAO_REST_KEY }}
+          KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          MODE: ${{ github.event.inputs.mode }}
+        run: |
+          if [ "$MODE" = "점검만 (카카오 발송 안 함)" ]; then
+            python -m hisco_news run --dry-run
+          elif [ "$MODE" = "지금 바로 발송" ]; then
+            python -m hisco_news run --no-wait
+          else
+            python -m hisco_news run
+          fi
+
+      - name: 원문 링크 점검 보고서 표시
+        if: always()
+        run: cat reports/*_원문링크점검.md 2>/dev/null | tail -n 80 >> "$GITHUB_STEP_SUMMARY" || true
+
+      - name: 뉴스판·기록 저장
+        if: always()
+        run: |
+          git config user.name "hisco-news-bot"
+          git config user.email "hisco-news-bot@users.noreply.github.com"
+          git add docs data reports
+          git diff --cached --quiet || git commit -m "뉴스 브리핑 $(TZ=Asia/Seoul date +%F)"
+          git push
