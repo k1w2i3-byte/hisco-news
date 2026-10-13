@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex">
+<meta name="referrer" content="no-referrer"><title>카카오 인증 코드</title>
+<style>body{font-family:"맑은 고딕","Malgun Gothic",sans-serif;background:#f4f6fa;color:#14213d;margin:0}
+.box{max-width:620px;margin:10vh auto;background:#fff;border:1px solid #dde3ec;border-radius:12px;padding:22px}
+code{display:block;word-break:break-all;background:#eef2f8;padding:12px;border-radius:8px;font-size:14px}
+button{margin-top:12px;background:#0b2545;color:#fff;border:0;border-radius:6px;padding:8px 14px;font-size:14px;cursor:pointer}
+.warn{color:#c62828}</style></head><body><div class="box">
+<h2>카카오 인증 코드</h2><div id="out"></div></div>
+<script>
+var q = new URLSearchParams(location.search), out = document.getElementById('out');
+if (q.get('code')) {
+  var c = q.get('code');
+  out.innerHTML = '<p>아래 코드를 복사해 GitHub의 <b>「카카오 최초 인증」</b> 워크플로 실행 창에 붙여 넣으세요. (10분 안에, 1회만 사용 가능)</p><code id="c"></code><button id="b">코드 복사</button>';
+  document.getElementById('c').textContent = c;
+  document.getElementById('b').onclick = function () { navigator.clipboard.writeText(c); this.textContent = '복사됨'; };
+  history.replaceState(null, '', location.pathname); // 주소창에서 코드 제거
+} else {
+  var p = document.createElement('p'); p.className = 'warn';
+  p.textContent = '코드가 없습니다: ' + (q.get('error_description') || q.get('error') || '카카오 로그인 화면에서 다시 시작하세요');
+  out.appendChild(p);
+}
+</script></body></html>

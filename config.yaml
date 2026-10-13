@@ -1,0 +1,99 @@
+# ============================================================
+# 협성HISCO 산업정보 자동수집 시스템 — 설정 파일
+# 이 파일만 고치면 키워드·출처·경쟁사·발송 건수를 바꿀 수 있습니다.
+# ============================================================
+
+site:
+  title: "협성HISCO 계측 산업정보"
+  # GitHub Pages 주소 (예: https://아이디.github.io/hisco-news)
+  # 비워 두면 워크플로가 GITHUB_REPOSITORY 값으로 자동 계산합니다.
+  base_url: ""
+
+schedule:
+  timezone: "Asia/Seoul"
+  send_at: "08:00"          # 수집이 일찍 끝나면 이 시각까지 기다렸다가 카카오톡 발송
+  lookback_hours: 48        # 최근 48시간 기사만 후보로 사용
+  top_n: 10                 # 추천 뉴스 건수
+  recheck_days: 14          # 지난 14일 기사 링크를 매일 다시 점검(삭제 감지)
+
+# ------------------------------------------------------------
+# 검색 키워드 (weight가 높을수록 추천 점수에 크게 반영)
+# ------------------------------------------------------------
+keywords:
+  - { q: "계측기",            weight: 3 }
+  - { q: "압력계",            weight: 3 }
+  - { q: "압력전송기",        weight: 3 }
+  - { q: "온도센서 산업",     weight: 2 }
+  - { q: "유량계",            weight: 3 }
+  - { q: "레벨계",            weight: 2 }
+  - { q: "계장 설비",         weight: 2 }
+  - { q: "스마트팩토리 센서", weight: 1 }
+  - { q: "로크웰오토메이션",  weight: 2 }
+  - { q: "공정 자동화 계측",  weight: 2 }
+
+# 제목·본문에 있으면 가점 / 감점
+boost_terms: ["계측", "압력", "온도", "유량", "레벨", "센서", "전송기", "계장", "석유화학", "플랜트", "반도체", "이차전지", "율촌", "광양", "여수"]
+exclude_terms: ["주가 급등", "특징주", "부고", "운세", "광고"]
+
+# 추천에서 뺄 출처 (뉴스판 '제외' 목록에는 사유와 함께 표시)
+# 2026-10-13 실제 수집 테스트에서 시장보고서 홍보성 블로그가 섞여 들어오는 것을 확인
+exclude_publishers: ["IndexBox", "Spherical Insights", "MarketsandMarkets", "Market Research Future"]
+
+# ------------------------------------------------------------
+# 수집 출처
+# ------------------------------------------------------------
+sources:
+  # 네이버 뉴스 검색 API: 원본 언론사 URL(originallink)을 직접 제공 → 원문 확보율이 가장 높음
+  # GitHub Secrets에 NAVER_CLIENT_ID / NAVER_CLIENT_SECRET 을 넣으면 자동 사용
+  naver_api: true
+
+  # Google News RSS: 중계 링크를 원본 URL로 해석 시도, 실패하면 '중계 링크'로 표시
+  google_news: true
+
+  # 언론사·기관 RSS (원문 URL을 직접 제공)
+  rss:
+    - { name: "연합뉴스 산업",  url: "https://www.yna.co.kr/rss/industry.xml", type: "언론 보도" }
+    - { name: "전자신문 전체",  url: "https://rss.etnews.com/Section901.xml",   type: "언론 보도" }
+
+# ------------------------------------------------------------
+# 경쟁사·주요 기업 공식 보도자료 → '기업 공식 발표'로 구분
+#   type: rss  → RSS 주소
+#   type: page → 보도자료 목록 페이지 + 기사 링크를 고르는 CSS 선택자
+#   ※ 주소는 각 사 홈페이지 개편 시 바뀔 수 있습니다. 첫 점검 실행 보고서에서
+#     '수집 0건'으로 나오는 항목은 주소를 확인해 주세요.
+# ------------------------------------------------------------
+official:
+  - name: "Yokogawa"
+    type: page
+    url: "https://www.yokogawa.com/news/press-releases/"
+    link_selector: "a[href*='/news/press-releases/']"
+  - name: "Endress+Hauser"
+    type: page
+    url: "https://www.endress.com/en/news-and-press"
+    link_selector: "a[href*='/news-and-press/']"
+  - name: "WIKA"
+    type: page
+    url: "https://www.wika.com/en-en/press_releases.WIKA"
+    link_selector: "a[href*='press']"
+  - name: "Emerson"
+    type: page
+    url: "https://www.emerson.com/en-us/news"
+    link_selector: "a[href*='/news/']"
+  - name: "Rockwell Automation"
+    type: page
+    url: "https://www.rockwellautomation.com/en-us/company/news/press-releases.html"
+    link_selector: "a[href*='/press-releases/']"
+
+# 공식 발표로 볼 '정부·공공기관' 도메인 (이 도메인의 기사는 '기관 발표'로 표시)
+agency_domains: ["go.kr", "korea.kr", "or.kr"]
+
+# 신뢰 언론사 가점 (대표 기사 선정 시 우선)
+preferred_publishers: ["연합뉴스", "전자신문", "매일경제", "한국경제", "서울경제", "머니투데이", "이데일리", "산업일보", "헬로티", "에너지경제"]
+
+# ------------------------------------------------------------
+# AI 요약 (선택) — ANTHROPIC_API_KEY 가 있을 때만 생성, 없으면 원문 발췌만 표시
+# ------------------------------------------------------------
+ai_summary:
+  enabled: true
+  model: "claude-haiku-5-5"
+  max_chars_input: 4000

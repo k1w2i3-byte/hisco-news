@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex"><meta name="referrer" content="no-referrer">
+<title>원문으로 이동</title>
+<style>
+:root{--navy:#0b2545;--ink:#14213d;--dim:#5b6b82;--bg:#f4f6fa;--card:#fff;--line:#dde3ec;--bad:#c62828;--acc:#1f6feb}
+@media (prefers-color-scheme:dark){:root{--ink:#e6edf6;--dim:#9fb0c6;--bg:#0d1420;--card:#152033;--line:#26344c;--acc:#5aa2ff}}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"맑은 고딕","Malgun Gothic","Apple SD Gothic Neo",sans-serif}
+.box{max-width:560px;margin:12vh auto 0;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:22px 18px}
+h1{font-size:17px;margin:0 0 8px}.url{font-size:13px;color:var(--dim);word-break:break-all}
+.warn{color:var(--bad);font-weight:700}a.btn{display:inline-block;margin:14px 8px 0 0;background:var(--navy);color:#fff;
+text-decoration:none;border-radius:6px;padding:8px 14px;font-size:14px}a.sub{background:transparent;color:var(--acc);border:1px solid var(--line)}
+</style></head><body><div class="box" id="box"><h1>원문 확인 중…</h1></div>
+<script>
+// 카카오톡 메시지의 기사 항목이 이 페이지로 연결됩니다.
+// 카카오는 앱에 등록한 도메인만 링크로 열 수 있어, 이 페이지가 원문 상태를 확인한 뒤 원본 URL로 바로 이동시킵니다.
+(function () {
+  var box = document.getElementById('box');
+  var id = new URLSearchParams(location.search).get('id') || '';
+  function esc(s) { return String(s || '').replace(/[&<>"']/g, function (c) {
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function safe(u) { try { var p = new URL(u); return (p.protocol === 'https:' || p.protocol === 'http:') ? p.href : ''; } catch (e) { return ''; } }
+  fetch('data/links.json', {cache: 'no-store'}).then(function (r) { return r.json(); }).then(function (map) {
+    var a = map[id];
+    if (!a) { box.innerHTML = '<h1>기사를 찾을 수 없습니다</h1><p>보관 기간(30일)이 지났거나 잘못된 주소입니다.</p><a class="btn" href="./">뉴스판 열기</a>'; return; }
+    var url = safe(a.url);
+    var info = '<p><b>' + esc(a.title) + '</b><br>' + esc(a.publisher) + '</p><div class="url">' + esc(url) + '</div>';
+    if (!url) { box.innerHTML = '<h1>원문 링크가 없습니다</h1>' + info; return; }
+    if (a.url_type !== '원문') {
+      box.innerHTML = '<h1 class="warn">원본 URL을 확보하지 못한 기사</h1>' + info +
+        '<p>아래 링크는 중계 페이지입니다. 원문 링크가 아닙니다.</p>' +
+        '<a class="btn" rel="noopener noreferrer" href="' + esc(url) + '">중계 페이지 열기</a><a class="btn sub" href="./#a-' + esc(id) + '">뉴스판</a>';
+      return;
+    }
+    if (a.link_status === '삭제됨' || a.link_status === '이동됨' || a.link_status === '접속오류') {
+      box.innerHTML = '<h1 class="warn">원문 링크 상태: ' + esc(a.link_status) + '</h1>' + info +
+        '<p>' + esc(a.checked_at ? ('마지막 점검 ' + a.checked_at.replace('T', ' ').slice(0, 16) + ' (UTC)') : '') +
+        ' — 원문이 삭제·이동되었을 수 있습니다. 뉴스판에서 같은 사건의 다른 출처를 확인하세요.</p>' +
+        '<a class="btn" rel="noopener noreferrer" href="' + esc(url) + '">그래도 원문 열기</a><a class="btn sub" href="./#a-' + esc(id) + '">뉴스판에서 다른 출처 보기</a>';
+      return;
+    }
+    box.innerHTML = '<h1>원문으로 이동합니다</h1>' + info + '<a class="btn" rel="noopener noreferrer" href="' + esc(url) + '">이동하지 않으면 누르세요</a>';
+    location.replace(url);
+  }).catch(function () {
+    box.innerHTML = '<h1>기사 정보를 불러오지 못했습니다</h1><a class="btn" href="./">뉴스판 열기</a>';
+  });
+})();
+</script></body></html>
