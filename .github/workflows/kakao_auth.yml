@@ -1,0 +1,48 @@
+name: 카카오 최초 인증
+
+# 최초 1회, 그리고 카카오 인증이 만료되었다는 알림을 받았을 때 실행합니다.
+# 1) 작업 탭의 'auth-url' 단계 로그에 나오는 주소를 열어 카카오 로그인·동의
+# 2) 이동한 페이지(kakao_callback.html)에 표시된 코드를 복사
+# 3) 이 워크플로를 code 입력과 함께 다시 실행
+
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "인증 코드 (비워 두면 인증 주소만 출력)"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  auth:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: auth-url
+        env:
+          KAKAO_REST_KEY: ${{ secrets.KAKAO_REST_KEY }}
+        run: python -m hisco_news auth-url
+      - name: 토큰 발급·저장·테스트 메시지
+        if: ${{ github.event.inputs.code != '' }}
+        env:
+          KAKAO_REST_KEY: ${{ secrets.KAKAO_REST_KEY }}
+          KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
+          GH_PAT: ${{ secrets.GH_PAT }}
+          CODE: ${{ github.event.inputs.code }}
+        run: |
+          echo "::add-mask::$CODE"
+          python -m hisco_news kakao-auth --code "$CODE"
+      - name: 만료일 기록 저장
+        if: ${{ github.event.inputs.code != '' }}
+        run: |
+          git config user.name "hisco-news-bot"
+          git config user.email "hisco-news-bot@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "카카오 인증 갱신"
+          git push
