@@ -5,7 +5,7 @@
   "title": "Yokogawa to Assist the Scale Up of Tropical Climate AI Data Center Testbed into a Multi-megawatt Pilot Facility",
   "publisher": "Yokogawa",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:04:09+00:00"
+  "checked_at": "2026-10-14T23:02:32+00:00"
  },
  "38ad5c024175": {
   "url": "https://www.yokogawa.com/news/press-releases/2026/2026-09-14/",
@@ -109,7 +109,7 @@
   "title": "Middle East & Africa",
   "publisher": "Yokogawa",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:04:07+00:00"
+  "checked_at": "2026-10-14T23:02:33+00:00"
  },
  "a696c0d8ecde": {
   "url": "https://www.yokogawa.com/za/news/press-releases/",
@@ -125,7 +125,7 @@
   "title": "Media Resources",
   "publisher": "Emerson",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:04:13+00:00"
+  "checked_at": "2026-10-14T23:02:33+00:00"
  },
  "3205c658c226": {
   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87434",
@@ -133,7 +133,7 @@
   "title": "[현장] 페펄앤드푹스, 센서 연결 넘어 데이터 활용까지… 스마트팩토리 운영 해법 제시",
   "publisher": "인더스트리뉴스",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:04:17+00:00"
+  "checked_at": "2026-10-14T23:02:34+00:00"
  },
  "e7b5e21d700a": {
   "url": "https://www.yna.co.kr/view/AKR20261013176900003",
@@ -141,7 +141,7 @@
   "title": "반도체산업협회, 15일 코엑스서 AI시대 차세대 메모리 기술 포럼",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:05:23+00:00"
+  "checked_at": "2026-10-14T23:02:36+00:00"
  },
  "9d56c9468a6f": {
   "url": "https://www.yna.co.kr/view/AKR20261013171600061",
@@ -149,7 +149,7 @@
   "title": "용인시장, 국토부 장관에 반도체클러스터 교통망 확충 요청",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:05:24+00:00"
+  "checked_at": "2026-10-14T23:02:36+00:00"
  },
  "e3f29550bbd7": {
   "url": "https://kr.aving.net/news/articleView.html?idxno=1815396",
@@ -157,7 +157,7 @@
   "title": "코스모스, AIoT 국제전시회서 LoRa 자가망 센서 3종 공개... \"통신사 망 없이 자체 인프라로\" |",
   "publisher": "에이빙",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:05:16+00:00"
+  "checked_at": "2026-10-14T23:02:38+00:00"
  },
  "7356bb06a8fb": {
   "url": "https://www.mt.co.kr/stock/2026/10/13/2026101309060776230",
@@ -165,7 +165,7 @@
   "title": "한울반도체, AI 서버용 MLCC 수요 증가 대응…후공정 장비 청사진 공개 - 머니투데이",
   "publisher": "머니투데이",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:05:19+00:00"
+  "checked_at": "2026-10-14T23:02:38+00:00"
  },
  "c12ea2aec143": {
   "url": "https://kr.aving.net/news/articleView.html?idxno=1815263",
@@ -173,7 +173,7 @@
   "title": "리프웨이브, KES 2026서 초고주파 계측 모듈 'TX500/RX500' 선보여… \"반도체 신호 한계를 낮춘다\"",
   "publisher": "에이빙",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:04:19+00:00"
+  "checked_at": "2026-10-14T23:02:38+00:00"
  },
  "016a000df264": {
   "url": "https://kr.aving.net/news/articleView.html?idxno=1815297",
@@ -181,6 +181,94 @@
   "title": "눈에 보이지 않는 불순물까지 잡아 반도체 제조 가스 초고순도 유지... 알에스코리아, SEDEX 2026서 정밀 가스 분석 솔루션 공개",
   "publisher": "에이빙",
   "link_status": "정상",
-  "checked_at": "2026-10-13T23:05:13+00:00"
+  "checked_at": "2026-10-14T23:02:38+00:00"
+ },
+ "ddb1f961f008": {
+  "url": "https://www.vegannews.co.kr/news/article.html?no=392505",
+  "url_type": "원문",
+  "title": "지역난방 열량계는 열량, 유량계는 난방수 부피 측정",
+  "publisher": "비건뉴스",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:02:46+00:00"
+ },
+ "b3849f6e6f50": {
+  "url": "https://zdnet.co.kr/view/?no=20261014094420",
+  "url_type": "원문",
+  "title": "로크웰오토메이션, 산업용 통합 컨트롤러 출시…설치 면적 43%↓",
+  "publisher": "지디넷코리아",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:02:50+00:00"
+ },
+ "73a16416aeb2": {
+  "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87487",
+  "url_type": "원문",
+  "title": "로크웰오토메이션, ‘CompactLogix 5390 컨트롤러’ 출시",
+  "publisher": "인더스트리뉴스",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:02:48+00:00"
+ },
+ "c80f3d70d3e1": {
+  "url": "https://www.newspim.com/news/view/20261014000167",
+  "url_type": "원문",
+  "title": "\"우진, 반도체 온도센서 호조…4분기 원전 매출 확대\" - 유안타증권",
+  "publisher": "뉴스핌",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:03:01+00:00"
+ },
+ "80aaa2ccc7db": {
+  "url": "https://www.fajournal.com/news/articleView.html?idxno=21405",
+  "url_type": "원문",
+  "title": "[현장] 페펄앤드푹스, 센서 연결 넘어 데이터 활용까지… 스마트팩토리 운영 해법 제시",
+  "publisher": "FA저널",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:03:03+00:00"
+ },
+ "5dd741d7aa70": {
+  "url": "https://www.yna.co.kr/view/AKR20261014168700003",
+  "url_type": "원문",
+  "title": "반도체 설계대전 대통령상에 연세대팀…우수작 21개팀 시상",
+  "publisher": "연합뉴스 산업 최신기사",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:03:28+00:00"
+ },
+ "ad4cfa9dd950": {
+  "url": "https://www.energykorea.co.kr/news/articleView.html?idxno=66574",
+  "url_type": "원문",
+  "title": "\"돌아오는 난방수 온도 센서가 잡아낸다\"…지역난방공사, 에너지 절약 신기술 특허",
+  "publisher": "에너지코리아뉴스",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:03:12+00:00"
+ },
+ "4c3388c05fd6": {
+  "url": "https://www.yna.co.kr/view/AKR20261014029051002",
+  "url_type": "원문",
+  "title": "정부, 서비스산업발전기본법 재추진…보건·의료 제외 전망(종합)",
+  "publisher": "연합뉴스 산업 최신기사",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:03:28+00:00"
+ },
+ "b49c3ed7e30d": {
+  "url": "https://www.etnews.com/20261014000424",
+  "url_type": "원문",
+  "title": "“뉴욕 택시기사도 코스피 얘기…삼전닉스 저평가, 1년 내 9000 돌파”",
+  "publisher": "오늘의뉴스 - 이티뉴스",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:03:29+00:00"
+ },
+ "524303ea4921": {
+  "url": "https://www.yna.co.kr/view/AKR20261014161600052",
+  "url_type": "원문",
+  "title": "반도체 아카데미 예산 82.8％ 경기도 집중…\"지역 인재 소외\"",
+  "publisher": "연합뉴스 산업 최신기사",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:03:29+00:00"
+ },
+ "72311a6240fb": {
+  "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=259714",
+  "url_type": "원문",
+  "title": "애플 두뇌가 LG 가전 움직인다···AI홈 7종에 숨은 반도체 연결망",
+  "publisher": "여성경제신문",
+  "link_status": "정상",
+  "checked_at": "2026-10-14T23:03:15+00:00"
  }
 }
