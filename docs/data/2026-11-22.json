@@ -1,0 +1,170 @@
+{
+ "date": "2026-11-22",
+ "stats": {
+  "collected": 117,
+  "original": 26,
+  "verified": 22,
+  "picked": 1,
+  "unverified": 4
+ },
+ "picks": [
+  {
+   "rep": {
+    "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
+    "publisher": "연합뉴스 산업 최신기사",
+    "published": "2026-11-21T21:20:00+00:00",
+    "collected": "2026-11-22T02:39:31+00:00",
+    "url": "https://www.yna.co.kr/view/AKR20261121027600008",
+    "url_type": "원문",
+    "relay_url": null,
+    "source_type": "언론 보도",
+    "feed": "연합뉴스 산업",
+    "keyword": "",
+    "link_status": "정상",
+    "http_status": 200,
+    "final_url": "https://www.yna.co.kr/view/AKR20261121027600008",
+    "checked_at": "2026-11-22T02:40:05+00:00",
+    "page_title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도 | 연합뉴스",
+    "title_match": true,
+    "excerpt": "(서울=연합뉴스) 김유아 기자 = 지난주 국내 증시가 급락하는 동안 로봇주는 내년 초 호재 기대감을 안고 상승세를 이어가며 존재감을 드러냈다.",
+    "excerpt_src": "원문 페이지",
+    "publisher_home": "",
+    "ai_summary": "",
+    "score": 0.5,
+    "cluster_id": "c000",
+    "exclude_reasons": [],
+    "id": "8b37138abfec",
+    "verified": true,
+    "reasons": []
+   },
+   "others": [],
+   "score": 2.28
+  }
+ ],
+ "unverified": [
+  {
+   "title": "2035년 터빈 유량계 시장 전망: 석유화학 인프라와 교체 수요가 성장 견인 - 뉴스 및 통계",
+   "publisher": "IndexBox",
+   "published": "2026-11-21T05:01:05+00:00",
+   "collected": "2026-11-22T02:39:30+00:00",
+   "url": "https://www.indexbox.io/ko/blog/turbine-flow-meters-market-forecast-to-2035-demand-accelerates-on-petrochemical-transfer-infrastructure-and-aging-installed-base-replacement/",
+   "url_type": "원문",
+   "relay_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbEJnLUd3QUVfVzdTakNTaGpVY0phOUVGMFRfQ01SeWNhWWdKOHN4cFNWOXo3Y1o5MjNXWV95aEhSSVplQTR2eDZFQVdtTXJaSjZ6R2hGQ3pvTkVCQWozT2kzRGt0U18yTHg5MnFfcjViU1AybFQ5a3lzNlFodFVQSENmN3lYUDJDOHpzVVc2aktkamU1Zm1JVkxGa0ItR1Y5a1NfTXlVQ1ZZSTB2UjU4dGU3b2k4d0JhcmM3RG5xTmFwWno2VVVzUXNIQ3dUOWFNcm5zRUh4OF84cU5UblQwR3gtY2lnV2RRenF0U0NfZk5XcTNvYU00UlhiQlUtZVZiSDlr?oc=5",
+   "source_type": "언론 보도",
+   "feed": "Google News",
+   "keyword": "유량계",
+   "link_status": "정상",
+   "http_status": 200,
+   "final_url": "https://www.indexbox.io/ko/blog/turbine-flow-meters-market-forecast-to-2035-demand-accelerates-on-petrochemical-transfer-infrastructure-and-aging-installed-base-replacement/",
+   "checked_at": "2026-11-22T02:39:50+00:00",
+   "page_title": "2035년 터빈 유량계 시장 전망: 석유화학 인프라와 교체 수요가 성장 견인 - 뉴스 및 통계 - IndexBox",
+   "title_match": true,
+   "excerpt": "글로벌 터빈 유량계 시장이 2035년까지 연평균 4~6% 성장할 전망이다. 석유화학 이송 인프라 확충과 노후 설비 교체 수요가 주요 성장 동력으로 꼽힌다.",
+   "excerpt_src": "원문 페이지",
+   "publisher_home": "https://www.indexbox.io",
+   "ai_summary": "",
+   "score": 4.0,
+   "cluster_id": "c002",
+   "exclude_reasons": [
+    "홍보성 시장보고서 출처(설정에서 제외)"
+   ],
+   "id": "4ac86321f1c5",
+   "verified": false,
+   "reasons": [
+    "홍보성 시장보고서 출처(설정에서 제외)"
+   ]
+  },
+  {
+   "title": "United States",
+   "publisher": "Yokogawa",
+   "published": null,
+   "collected": "2026-11-22T02:39:33+00:00",
+   "url": "https://www.yokogawa.com/us/news/press-releases/",
+   "url_type": "원문",
+   "relay_url": null,
+   "source_type": "기업 공식 발표",
+   "feed": "Yokogawa 공식",
+   "keyword": "",
+   "link_status": "정상",
+   "http_status": 200,
+   "final_url": "https://www.yokogawa.com/us/news/press-releases/",
+   "checked_at": "2026-11-22T02:39:53+00:00",
+   "page_title": "Press Releases | Yokogawa America",
+   "title_match": false,
+   "excerpt": "",
+   "excerpt_src": "",
+   "publisher_home": "",
+   "ai_summary": "",
+   "score": 2.0,
+   "cluster_id": "c008",
+   "exclude_reasons": [],
+   "id": "3450f4465015",
+   "verified": false,
+   "reasons": [
+    "원문 페이지 제목 불일치"
+   ]
+  },
+  {
+   "title": "Customer Collaboration",
+   "publisher": "Emerson",
+   "published": null,
+   "collected": "2026-11-22T02:39:49+00:00",
+   "url": "https://www.emerson.com/en/corporate/news/search#f-ec_topics=Customer Collaboration",
+   "url_type": "원문",
+   "relay_url": null,
+   "source_type": "기업 공식 발표",
+   "feed": "Emerson 공식",
+   "keyword": "",
+   "link_status": "삭제됨",
+   "http_status": 200,
+   "final_url": "https://www.emerson.com/en/corporate/news/search#f-ec_topics=Customer%20Collaboration",
+   "checked_at": "2026-11-22T02:40:03+00:00",
+   "page_title": null,
+   "title_match": null,
+   "excerpt": "",
+   "excerpt_src": "",
+   "publisher_home": "",
+   "ai_summary": "",
+   "score": 2.0,
+   "cluster_id": "c012",
+   "exclude_reasons": [],
+   "id": "0ee81c14b2e4",
+   "verified": false,
+   "reasons": [
+    "원문 링크 삭제됨"
+   ]
+  },
+  {
+   "title": "흡기 공기 온도 센서 시장 2035년 전망: 배출가스 규제 준수와 하이브리드 수요가 성장 뒷받침 - 뉴스 및 통계",
+   "publisher": "IndexBox",
+   "published": "2026-11-21T05:16:05+00:00",
+   "collected": "2026-11-22T02:39:30+00:00",
+   "url": "https://www.indexbox.io/ko/blog/intake-air-temperature-sensor-market-forecast-to-2035-growth-driven-by-tightening-euro-7-and-china-6-emissions-rules/",
+   "url_type": "원문",
+   "relay_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON3ZTd3NwdVhvQ3E0Y051YlhfWlhHaVMxLUhuS1RhSndqZmczU1d6dGpWdUxQdTUxMWlHdmxoUmN5ZVoweGZPQ01HMnh0UlRRZi15cUZ4ZFFfSzQzcXFDWHNYZFA0Z2NLai1BelRWY29OVlhISWVwdm41T2hkUi05V2NMZGFoTTlFdkJEY05hZDBlZlJxUTZuV1hFSEVtRElRS0htblFQLXl4RU1wVWdKVnlXRll6dElGVnVUbG9Hamh0dE4tRHpGTmZmZ3hXNjE0WldVeTB6eTlqenFiaDFyR1Z0Yw?oc=5",
+   "source_type": "언론 보도",
+   "feed": "Google News",
+   "keyword": "온도센서 산업",
+   "link_status": "정상",
+   "http_status": 200,
+   "final_url": "https://www.indexbox.io/ko/blog/intake-air-temperature-sensor-market-forecast-to-2035-growth-driven-by-tightening-euro-7-and-china-6-emissions-rules/",
+   "checked_at": "2026-11-22T02:40:04+00:00",
+   "page_title": "흡기 공기 온도 센서 시장 2035년 전망: 배출가스 규제 준수와 하이브리드 수요가 성장 뒷받침 - 뉴스 및 통계 - IndexBox",
+   "title_match": true,
+   "excerpt": "글로벌 흡기 공기 온도 센서 시장이 2035년까지 성장할 전망이다. 정밀한 공기 밀도 측정을 요구하는 유로 7과 중국 6 배출가스 규제 강화가 성장을 이끌고 있다.",
+   "excerpt_src": "원문 페이지",
+   "publisher_home": "https://www.indexbox.io",
+   "ai_summary": "",
+   "score": 1.0,
+   "cluster_id": "c001",
+   "exclude_reasons": [
+    "홍보성 시장보고서 출처(설정에서 제외)"
+   ],
+   "id": "1b9f32e2f06a",
+   "verified": false,
+   "reasons": [
+    "홍보성 시장보고서 출처(설정에서 제외)"
+   ]
+  }
+ ]
+}
