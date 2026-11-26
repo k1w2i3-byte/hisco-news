@@ -1,84 +1,4 @@
 {
- "6da96190cbc7": {
-  "url": "http://www.cenews.co.kr/news/articleView.html?idxno=19919",
-  "url_type": "원문",
-  "title": "[긴급진단]“불량 계측기로 건설현장 안전을 판단한다고?”",
-  "publisher": "토목신문",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:40+00:00"
- },
- "6b641f4672d6": {
-  "url": "https://www.yna.co.kr/view/AKR20261027018100002",
-  "url_type": "원문",
-  "title": "반도체 수출 호조에 3분기 한국 경제 1.0% '깜짝 성장'",
-  "publisher": "연합뉴스 산업 최신기사",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:41+00:00"
- },
- "a670586653f1": {
-  "url": "https://www.fajournal.com/news/articleView.html?idxno=21434",
-  "url_type": "원문",
-  "title": "ifm, 초소형 위생 온도센서 ‘TC Mini’… 좁은 배관에서도 ±0.2K 고정밀 측정",
-  "publisher": "FA저널",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:43+00:00"
- },
- "22e816e99b4b": {
-  "url": "https://kr.aving.net/news/articleView.html?idxno=1816158",
-  "url_type": "원문",
-  "title": "위즈맥, IRIC 2026서 전기화학 측정·분석 장비 공개... \"맞춤형 계측 솔루션 제시\" |",
-  "publisher": "에이빙",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:45+00:00"
- },
- "399b6fe17709": {
-  "url": "https://kr.aving.net/news/articleView.html?idxno=1816136",
-  "url_type": "원문",
-  "title": "스마트뱅크, IRIC 2026서 AI 영상·센서 분석 솔루션 소개해... \"현장의 문제 푸는 AI\"",
-  "publisher": "에이빙",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:45+00:00"
- },
- "39096b6f3cb0": {
-  "url": "https://www.yna.co.kr/view/AKR20261026122900054",
-  "url_type": "원문",
-  "title": "전남광주교육청, 광주권 반도체 마이스터고 설립 추진",
-  "publisher": "연합뉴스 산업 최신기사",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:45+00:00"
- },
- "72885c9d34fb": {
-  "url": "https://www.yna.co.kr/view/AKR20261026144600003",
-  "url_type": "원문",
-  "title": "LG화학, 국도화학에 대산 비스페놀A 사업 매각…구조 재편",
-  "publisher": "연합뉴스 산업 최신기사",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:45+00:00"
- },
- "db4be60c1ea3": {
-  "url": "https://www.etnews.com/20261026000221",
-  "url_type": "원문",
-  "title": "이재용 취임 4년, 반도체 부활 넘어 M&A 승부수…미래사업 확장 가속",
-  "publisher": "오늘의뉴스 - 이티뉴스",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:46+00:00"
- },
- "3600b2d57cd7": {
-  "url": "https://www.thelec.kr/news/articleView.html?idxno=63839",
-  "url_type": "원문",
-  "title": "[일렉 스타] 삼성이 투자한 우프틱스, 국내에 웨이퍼 계측장비 공급",
-  "publisher": "디일렉",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:48+00:00"
- },
- "ca1995c110cd": {
-  "url": "http://www.cenews.co.kr/news/articleView.html?idxno=19921",
-  "url_type": "원문",
-  "title": "한국건설계측협회·서울시 품질시험소, 건설계측 품질관리 정상화 손잡는다",
-  "publisher": "토목신문",
-  "link_status": "정상",
-  "checked_at": "2026-11-08T23:13:49+00:00"
- },
  "c1e25ca2b205": {
   "url": "https://www.yna.co.kr/view/AKR20261022164500898",
   "url_type": "원문",
@@ -1101,7 +1021,7 @@
   "title": "가스기술공사, 수소 거래용 유량계 교정체계 구축",
   "publisher": "에너지타임즈",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:39+00:00"
+  "checked_at": "2026-11-26T04:21:37+00:00"
  },
  "d6b2b79ca0b3": {
   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204961",
@@ -1149,7 +1069,7 @@
   "title": "정밀 계측기로 실내골프 공략…매출 98% 해외서 일궜다",
   "publisher": "한국경제",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:40+00:00"
+  "checked_at": "2026-11-26T04:21:39+00:00"
  },
  "c6f0c056cc80": {
   "url": "https://kidd.co.kr/news/248132",
@@ -1157,7 +1077,7 @@
   "title": "로크웰오토메이션, 제조설비 자산·변경 이력 관리로 OT 보안 강화",
   "publisher": "산업일보",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:42+00:00"
+  "checked_at": "2026-11-26T04:21:41+00:00"
  },
  "fc2747ab7225": {
   "url": "https://www.yokogawa.com/mea/news/press-releases/",
@@ -1165,7 +1085,7 @@
   "title": "Middle East & Africa",
   "publisher": "Yokogawa",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:42+00:00"
+  "checked_at": "2026-11-26T04:21:42+00:00"
  },
  "a696c0d8ecde": {
   "url": "https://www.yokogawa.com/za/news/press-releases/",
@@ -1181,7 +1101,7 @@
   "title": "Yokogawa Receives Order from Brazilian Mining Company Samarco to Supply Control and Safety Systems",
   "publisher": "Yokogawa",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:43+00:00"
+  "checked_at": "2026-11-26T04:21:43+00:00"
  },
  "73ef55cddbb7": {
   "url": "https://www.yokogawa.com/news/press-releases/2026/2026-11-04/",
@@ -1237,7 +1157,7 @@
   "title": "Media Resources",
   "publisher": "Emerson",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:43+00:00"
+  "checked_at": "2026-11-26T04:21:43+00:00"
  },
  "afad565f9937": {
   "url": "https://thetracker.co.kr/View.aspx?No=4309978",
@@ -1245,7 +1165,7 @@
   "title": "뷰런테크놀로지 ‘엑스 프로스펙터’, 센서·차종 장벽 깬 인지 플랫폼으로 CES 2027 혁신상 영예",
   "publisher": "더트래커",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:44+00:00"
+  "checked_at": "2026-11-26T04:21:45+00:00"
  },
  "f28112d43088": {
   "url": "https://www.koit.co.kr/news/articleView.html?idxno=209879",
@@ -1261,7 +1181,7 @@
   "title": "집에 도둑 들면 바로 출동?…아마존 '보안 드론'",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:45+00:00"
+  "checked_at": "2026-11-26T04:21:46+00:00"
  },
  "c3df226977a2": {
   "url": "https://www.etnews.com/20261112000474",
@@ -1269,7 +1189,7 @@
   "title": "젠슨 황 불륜에 내 노후자금이 왜?…국민연금, 엔비디아 평가액만 4조 증발",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:46+00:00"
+  "checked_at": "2026-11-26T04:21:47+00:00"
  },
  "b895e7e172c5": {
   "url": "https://www.yna.co.kr/view/AKR20261112170600054",
@@ -1277,7 +1197,7 @@
   "title": "전남광주교육청·목포대, 반도체 실무인재 교육 협력",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:46+00:00"
+  "checked_at": "2026-11-26T04:21:48+00:00"
  },
  "c716f69aed02": {
   "url": "https://www.hantoday.net/news/articleView.html?idxno=55463",
@@ -1285,7 +1205,7 @@
   "title": "크라프솔루션, AI로 사출성형 무인화 도전…금형 센서부터 ‘다크팩토리’까지 기술 확장",
   "publisher": "한국투데이",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:48+00:00"
+  "checked_at": "2026-11-26T04:21:50+00:00"
  },
  "f1779e9d8c6a": {
   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503913",
@@ -1293,7 +1213,7 @@
   "title": "AI 반도체 투자 살아나자 장비주 급등…후공정 기업들 주목을",
   "publisher": "핀포인트뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:48+00:00"
+  "checked_at": "2026-11-26T04:21:51+00:00"
  },
  "dca492528ef1": {
   "url": "https://www.etnews.com/20261113000197",
@@ -1301,7 +1221,7 @@
   "title": "“젠슨 황 불륜녀 앨리스 황, 中 국가안전부 '칩 팀' 요원”…정보수장이 직접 지휘",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:48+00:00"
+  "checked_at": "2026-11-26T04:21:52+00:00"
  },
  "3994d116a32e": {
   "url": "https://www.etnews.com/20261113000155",
@@ -1309,7 +1229,7 @@
   "title": "日정부, 엔비디아 사태 주시…'피지컬 AI' 영향 우려",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:49+00:00"
+  "checked_at": "2026-11-26T04:21:53+00:00"
  },
  "f5691e2734cb": {
   "url": "https://www.thelec.kr/news/articleView.html?idxno=64771",
@@ -1317,7 +1237,7 @@
   "title": "센시리온, 실내 공기질 측정용 포름알데히드 센서 출시",
   "publisher": "디일렉",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:50+00:00"
+  "checked_at": "2026-11-26T04:21:55+00:00"
  },
  "1436a07df0a7": {
   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503358",
@@ -1325,7 +1245,7 @@
   "title": "AI 메모리 투자 확대에 HBM주 들썩…검사·계측장비로 매수 온기 확산",
   "publisher": "핀포인트뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:51+00:00"
+  "checked_at": "2026-11-26T04:21:55+00:00"
  },
  "d50a190124d2": {
   "url": "http://www.cenews.co.kr/news/articleView.html?idxno=19971",
@@ -1333,7 +1253,7 @@
   "title": "“건설현장 안전은 계측에서 시작된다”",
   "publisher": "토목신문",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:51+00:00"
+  "checked_at": "2026-11-26T04:21:56+00:00"
  },
  "be36d240d9be": {
   "url": "https://www.yna.co.kr/view/AKR20261115016600017",
@@ -1341,7 +1261,7 @@
   "title": "AI 특수에 ICT 수출 703억달러…증가율 202% '역대 최고'",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:52+00:00"
+  "checked_at": "2026-11-26T04:21:57+00:00"
  },
  "77fa4c13921f": {
   "url": "https://www.yna.co.kr/view/AKR20261115018000003",
@@ -1349,7 +1269,7 @@
   "title": "비반도체 수출도 두자릿수 성장…호주 1위·네덜란드 2위",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:52+00:00"
+  "checked_at": "2026-11-26T04:21:57+00:00"
  },
  "9e3fe451eb15": {
   "url": "https://www.yna.co.kr/view/AKR20261115013700003",
@@ -1357,7 +1277,7 @@
   "title": "최태원 \"AI 반도체 넘어 서비스까지…성장 선순환 만들어야\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:52+00:00"
+  "checked_at": "2026-11-26T04:21:57+00:00"
  },
  "e9289ed0fd76": {
   "url": "https://www.yna.co.kr/view/AKR20261113119300054",
@@ -1365,7 +1285,7 @@
   "title": "호남 반도체 '필수 기반' 완충 저류·폐수처리 시설 구축 착수",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:52+00:00"
+  "checked_at": "2026-11-26T04:21:57+00:00"
  },
  "2bd5ff401b87": {
   "url": "https://www.yna.co.kr/view/AKR20261113090400017",
@@ -1373,7 +1293,7 @@
   "title": "[가보니] \"AI 성능 높이고 비용 낮춘다\"…LGU+, 내년 토큰 사업 추진",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:52+00:00"
+  "checked_at": "2026-11-26T04:21:57+00:00"
  },
  "71926f41f258": {
   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504068",
@@ -1381,7 +1301,7 @@
   "title": "엔진주는 주춤했지만 특화 기자재는 상승… 조선기자재주 온도차 뚜렷",
   "publisher": "핀포인트뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:53+00:00"
+  "checked_at": "2026-11-26T04:21:58+00:00"
  },
  "620b4b4bbc92": {
   "url": "https://www.epnc.co.kr/news/articleView.html?idxno=409791",
@@ -1389,7 +1309,7 @@
   "title": "온세미, 피지컬 AI 시대 센서 패러다임 바꾼다…지능형 반도체 기술 공개",
   "publisher": "테크월드",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:54+00:00"
+  "checked_at": "2026-11-26T04:21:59+00:00"
  },
  "7f4b623a0d58": {
   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52756",
@@ -1397,7 +1317,7 @@
   "title": "[Hot Pick] 한영넉스 ‘온도컨트롤러·산업용 센서’",
   "publisher": "기계설비신문",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:55+00:00"
+  "checked_at": "2026-11-26T04:22:01+00:00"
  },
  "f3023dadfbbe": {
   "url": "https://www.etnews.com/20261116000155",
@@ -1405,7 +1325,7 @@
   "title": "차세대 칩렛 표준 'UCIe 4.0' 나왔다…AI 반도체 메모리 병목 해소에 방점",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:56+00:00"
+  "checked_at": "2026-11-26T04:22:02+00:00"
  },
  "d65ac2acfb45": {
   "url": "https://www.ddaily.co.kr/page/view/2026111609354079532",
@@ -1413,7 +1333,7 @@
   "title": "온세미, 피지컬 AI 시대 산업용 센서 청사진 제시… `트레오`로 통합 제어 구현",
   "publisher": "디지털데일리",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:58+00:00"
+  "checked_at": "2026-11-26T04:22:03+00:00"
  },
  "c768c501a6d1": {
   "url": "https://www.yonhapnewstv.co.kr/news/MYH20261116091456N2l",
@@ -1421,7 +1341,7 @@
   "title": "8,700억 들인 반도체 시험장…소부장 키운다",
   "publisher": "연합뉴스TV",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:01:59+00:00"
+  "checked_at": "2026-11-26T04:22:05+00:00"
  },
  "da6667dd93ae": {
   "url": "https://www.etnews.com/20261113000212",
@@ -1429,7 +1349,7 @@
   "title": "“AI 불확실 우려에도 수요 견고”…SK하이닉스, HBM4 생산능력 더 키운다",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:00+00:00"
+  "checked_at": "2026-11-26T04:22:06+00:00"
  },
  "3d054c235388": {
   "url": "https://www.etnews.com/20261115000013",
@@ -1437,7 +1357,7 @@
   "title": "[지방시대 新성장엔진]〈3〉중부 '착공', 서남 '부지'…메가프로젝트 이행 속도 갈린다",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:01+00:00"
+  "checked_at": "2026-11-26T04:22:07+00:00"
  },
  "362d6dec71c8": {
   "url": "https://www.etnews.com/20261116000525",
@@ -1445,7 +1365,7 @@
   "title": "SK하이닉스 설비투자 올해 3분기까지 31조원…사상 최대 규모",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:02+00:00"
+  "checked_at": "2026-11-26T04:22:08+00:00"
  },
  "2bbca61a5fb6": {
   "url": "https://www.nhanews.com/news/articleView.html?idxno=93941",
@@ -1453,7 +1373,7 @@
   "title": "여수, 올해 ‘자랑스러운 기업인’ 선정",
   "publisher": "남해안신문",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:03+00:00"
+  "checked_at": "2026-11-26T04:22:09+00:00"
  },
  "2e95677f8acb": {
   "url": "https://www.geconomy.co.kr/mobile/article.html?no=325724",
@@ -1469,7 +1389,7 @@
   "title": "올해 1∼3분기 벤처투자 12조6천억원…\"역대 최대 실적 달성\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:03+00:00"
+  "checked_at": "2026-11-26T04:22:10+00:00"
  },
  "e92017ecbe23": {
   "url": "https://www.etnews.com/20261117000121",
@@ -1477,7 +1397,7 @@
   "title": "트럼프, 엔비디아 주식 '최대 830억원 규모' 보유… 中 스파이설엔 “입증 안 됐다”",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:04+00:00"
+  "checked_at": "2026-11-26T04:22:11+00:00"
  },
  "7449be795fb4": {
   "url": "https://www.etnews.com/20261116000124",
@@ -1485,7 +1405,7 @@
   "title": "벤츠, 내년 하반기 도심 자율주행 '레벨2++' 한국 도입…선탑재 차량은 OTA로 업그레이드",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:04+00:00"
+  "checked_at": "2026-11-26T04:22:12+00:00"
  },
  "984ab0fb691b": {
   "url": "https://www.newstap.co.kr/news/articleView.html?idxno=337975",
@@ -1493,7 +1413,7 @@
   "title": "AI가 판단하는 시대, 센서도 달라진다…온세미, 피지컬 AI 시대 겨냥한 차세대 기술 제시",
   "publisher": "뉴스탭",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:06+00:00"
+  "checked_at": "2026-11-26T04:22:13+00:00"
  },
  "743bdda8640c": {
   "url": "https://www.etnews.com/20261116000543",
@@ -1501,7 +1421,7 @@
   "title": "“33% 빠졌다, 젠슨 황이 준 기회?”…엔비디아 4500억 폭풍매수한 서학개미",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:06+00:00"
+  "checked_at": "2026-11-26T04:22:14+00:00"
  },
  "7b2e84cc00ac": {
   "url": "https://www.etnews.com/20261116000542",
@@ -1509,7 +1429,7 @@
   "title": "“나만 뒤처져” SK하닉 몰빵한 30대, 10년 모은 4억이 1억으로…“나보다 더 망한 인생 있을까”",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:07+00:00"
+  "checked_at": "2026-11-26T04:22:15+00:00"
  },
  "b220b53f9680": {
   "url": "https://www.yna.co.kr/view/MYH20261116004800038",
@@ -1517,7 +1437,7 @@
   "title": "8,700억 들인 반도체 시험장…소부장 키운다",
   "publisher": "연합뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:07+00:00"
+  "checked_at": "2026-11-26T04:22:15+00:00"
  },
  "c64302763ec7": {
   "url": "https://www.vegannews.co.kr/news/article.html?no=406620",
@@ -1525,7 +1445,7 @@
   "title": "우진 원전 노내핵계측기 계약금액 93억원으로 변경",
   "publisher": "비건뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:08+00:00"
+  "checked_at": "2026-11-26T04:22:16+00:00"
  },
  "ad88eac0e5c8": {
   "url": "https://m.segye.com/view/20261117515200",
@@ -1533,7 +1453,7 @@
   "title": "펄시스, FPGA 반도체 기반 파크골프 전용 센서 ‘펄트랙’ 개발",
   "publisher": "세계일보",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:09+00:00"
+  "checked_at": "2026-11-26T04:22:18+00:00"
  },
  "6fcbba1773d0": {
   "url": "https://www.yna.co.kr/view/AKR20261118062900002",
@@ -1541,7 +1461,7 @@
   "title": "반도체 호조로 3분기 충북 광공업생산 30%↑…소매판매 13곳↓",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:09+00:00"
+  "checked_at": "2026-11-26T04:22:18+00:00"
  },
  "436815246014": {
   "url": "https://www.yna.co.kr/view/AKR20261118090300017",
@@ -1549,7 +1469,7 @@
   "title": "딥엑스 NPU 탑재 에이페이서 제품, 대만 우수제품상 수상",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:09+00:00"
+  "checked_at": "2026-11-26T04:22:19+00:00"
  },
  "20857b9dd359": {
   "url": "https://www.yna.co.kr/view/AKR20261118087800053",
@@ -1557,7 +1477,7 @@
   "title": "DGIST 연구팀, 엔비디아 GPU 지원받아 AI 기반 촉매 연구",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:09+00:00"
+  "checked_at": "2026-11-26T04:22:19+00:00"
  },
  "69f70f77be78": {
   "url": "https://www.etnews.com/20261118000097",
@@ -1565,7 +1485,7 @@
   "title": "보스턴다이나믹스, 반도체 제조 현장서 아틀라스 첫 검증",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:10+00:00"
+  "checked_at": "2026-11-26T04:22:20+00:00"
  },
  "01a2835014a8": {
   "url": "https://www.fajournal.com/news/articleView.html?idxno=21531",
@@ -1573,7 +1493,7 @@
   "title": "터크, 센서 내장형 캐비닛 모니터링 장치 IM18-CCM45 출시",
   "publisher": "FA저널",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:11+00:00"
+  "checked_at": "2026-11-26T04:22:21+00:00"
  },
  "893d67a68a7f": {
   "url": "https://www.newswire.co.kr/newsRead.php?no=1047391",
@@ -1581,7 +1501,7 @@
   "title": "서울대 장호원 교수팀, ‘인식하는’ 지능형 자외선 이미지센서 개발",
   "publisher": "뉴스와이어",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:12+00:00"
+  "checked_at": "2026-11-26T04:22:22+00:00"
  },
  "3b4a323c114a": {
   "url": "https://www.bloter.net/news/articleView.html?idxno=678746",
@@ -1589,7 +1509,7 @@
   "title": "우진, 온도센서·MLCC 사업 호조…원전 수주로 실적 반전 이룰까",
   "publisher": "블로터",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:13+00:00"
+  "checked_at": "2026-11-26T04:22:24+00:00"
  },
  "f362d9200264": {
   "url": "http://www.newstheai.com/news/articleView.html?idxno=21962",
@@ -1597,7 +1517,7 @@
   "title": "온세미, 피지컬 AI 센서 전략 제시...현장서 판단하는 지능형 센서 강조",
   "publisher": "더에이아이",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:14+00:00"
+  "checked_at": "2026-11-26T04:22:25+00:00"
  },
  "e39eb42bb070": {
   "url": "https://www.yna.co.kr/view/AKR20261119049900017",
@@ -1605,7 +1525,7 @@
   "title": "싱크홀 탐지 레이다 활용 확대…생활무전기 6년 더 쓴다",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:14+00:00"
+  "checked_at": "2026-11-26T04:22:25+00:00"
  },
  "3f52adabd15c": {
   "url": "https://www.ddaily.co.kr/page/view/2026112010373427840",
@@ -1613,7 +1533,7 @@
   "title": "로크웰오토메이션, 지게차 로봇 애질록스 인수",
   "publisher": "디지털데일리",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:15+00:00"
+  "checked_at": "2026-11-26T04:22:26+00:00"
  },
  "d5d020c79084": {
   "url": "https://www.it-b.co.kr/news/articleView.html?idxno=90780",
@@ -1629,7 +1549,7 @@
   "title": "무안 국가산단 지정 연내 신청…앵커기업 확보가 '관건'",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:16+00:00"
+  "checked_at": "2026-11-26T04:22:27+00:00"
  },
  "6f95f39226bb": {
   "url": "https://www.yna.co.kr/view/AKR20261120066600008",
@@ -1637,7 +1557,7 @@
   "title": "무디스 \"내년 韓반도체 수출 호조 지속…건설업도 AI투자 수혜\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:16+00:00"
+  "checked_at": "2026-11-26T04:22:27+00:00"
  },
  "b4fe509a8592": {
   "url": "https://www.yna.co.kr/view/AKR20261120060900003",
@@ -1645,7 +1565,7 @@
   "title": "삼성전자 사장 승진 모두 반도체…기존 투톱에 성과·기술 방점",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:16+00:00"
+  "checked_at": "2026-11-26T04:22:27+00:00"
  },
  "2d38a9d62ba2": {
   "url": "https://www.yna.co.kr/view/AKR20261119123800008",
@@ -1653,7 +1573,7 @@
   "title": "[IPO챗] 솔리스 \"북미 넘어 유럽 배터리·미국 반도체 시장 공략\"",
   "publisher": "연합뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:16+00:00"
+  "checked_at": "2026-11-26T04:22:27+00:00"
  },
  "303d9fe67983": {
   "url": "https://kr.aving.net/news/articleView.html?idxno=1817222",
@@ -1661,7 +1581,7 @@
   "title": "리골코리아, KRS 2026서 휴대형 RF 계측기 소개... \"2kg 미만으로 현장 측정\" |",
   "publisher": "에이빙",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:17+00:00"
+  "checked_at": "2026-11-26T04:22:29+00:00"
  },
  "4cc3d006426b": {
   "url": "https://www.etnews.com/20261120000114",
@@ -1669,7 +1589,7 @@
   "title": "[소부장 테크페어]아이큐랩, 초고주파 GaN 소자 국산화 속도…“측정·인증 인프라 시급”",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:18+00:00"
+  "checked_at": "2026-11-26T04:22:30+00:00"
  },
  "be8905af8651": {
   "url": "https://www.etnews.com/20261120000109",
@@ -1677,7 +1597,7 @@
   "title": "[소부장 테크페어]테스, SiC·GaN 에피 장비 글로벌 3강 우뚝…“12인치 선제 대응해야”",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:19+00:00"
+  "checked_at": "2026-11-26T04:22:31+00:00"
  },
  "e3c4b4b7473d": {
   "url": "https://www.etnews.com/20261121000019",
@@ -1685,7 +1605,7 @@
   "title": "9000→4900 추락, 다음은…코스피, 바닥은 있나? 반전은 있나?",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:19+00:00"
+  "checked_at": "2026-11-26T04:22:32+00:00"
  },
  "afad19a356fd": {
   "url": "https://www.etnews.com/20261120000331",
@@ -1693,7 +1613,7 @@
   "title": "“AI 커닝해 주식 샀으니 취소해 달라”…차라리 '부정행위?' 자수하고 싶은 개미들",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:20+00:00"
+  "checked_at": "2026-11-26T04:22:33+00:00"
  },
  "080617e76ed6": {
   "url": "https://www.yna.co.kr/view/AKR20261120167400002",
@@ -1701,7 +1621,7 @@
   "title": "\"반도체 호황에도 파급 미미…10억원당 취업유발 2.4명\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:20+00:00"
+  "checked_at": "2026-11-26T04:22:33+00:00"
  },
  "53075d8ff12e": {
   "url": "https://www.yna.co.kr/view/AKR20261120164900003",
@@ -1709,7 +1629,7 @@
   "title": "4년 만에 대중 무역흑자 돌아섰지만…반도체 빼면 적자 확대",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:20+00:00"
+  "checked_at": "2026-11-26T04:22:33+00:00"
  },
  "0ace004a060e": {
   "url": "https://www.mt.co.kr/index.php/future/2026/11/19/2026111907353523432",
@@ -1717,7 +1637,7 @@
   "title": "실리콘으로 '안 보이던 적외선' 찍는다…저가 단파적외선 센서 개발 - 머니투데이",
   "publisher": "머니투데이",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:21+00:00"
+  "checked_at": "2026-11-26T04:22:33+00:00"
  },
  "8b37138abfec": {
   "url": "https://www.yna.co.kr/view/AKR20261121027600008",
@@ -1725,7 +1645,7 @@
   "title": "급락장에서도 로봇주는 약진…반도체 장비주 시총 제치기도",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:21+00:00"
+  "checked_at": "2026-11-26T04:22:34+00:00"
  },
  "8f7ffc592aca": {
   "url": "https://www.vegannews.co.kr/news/article.html?no=409589",
@@ -1733,7 +1653,7 @@
   "title": "로크웰오토메이션, AGILOX 인수 계약…AMR 사업 확대",
   "publisher": "비건뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:21+00:00"
+  "checked_at": "2026-11-26T04:22:34+00:00"
  },
  "a1daa9e9af3f": {
   "url": "https://www.yna.co.kr/view/AKR20261123082900002",
@@ -1741,7 +1661,7 @@
   "title": "이형일 \"반도체 호황 내년에도 지속…올해 4% 성장 가능 범위\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:21+00:00"
+  "checked_at": "2026-11-26T04:22:34+00:00"
  },
  "1bc64aac866b": {
   "url": "https://www.yna.co.kr/view/AKR20261123035000051",
@@ -1749,7 +1669,7 @@
   "title": "해수부, 해양플랜트 서비스산업 산학연 협력 행사",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:22+00:00"
+  "checked_at": "2026-11-26T04:22:34+00:00"
  },
  "9318f260c60e": {
   "url": "https://www.kmunews.co.kr/news/articleView.html?idxno=442819",
@@ -1757,7 +1677,7 @@
   "title": "[강소기업] 지자체 스마트쉘터와 비교시 전기료·탄소배출 90% 동시 절감 ‘코카타산업’ 센서 기반 고효율 지능형 냉·난방기 주목",
   "publisher": "한국미디어뉴스통신",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:23+00:00"
+  "checked_at": "2026-11-26T04:22:36+00:00"
  },
  "3993c34da903": {
   "url": "https://www.etnews.com/20261123000152",
@@ -1765,7 +1685,7 @@
   "title": "'반도체 비관론'에 '내년 주문' 언급한 靑…“AI 혁명은 비가역적 변화”",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:23+00:00"
+  "checked_at": "2026-11-26T04:22:37+00:00"
  },
  "caf54ec213d8": {
   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506871",
@@ -1773,7 +1693,7 @@
   "title": "AI 반도체 설비투자 훈풍…한미반도체·원익IPS 등 장비주 '함박웃음'",
   "publisher": "핀포인트뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:24+00:00"
+  "checked_at": "2026-11-26T04:22:38+00:00"
  },
  "52207897a2a2": {
   "url": "https://www.etnews.com/20261123000067",
@@ -1781,7 +1701,7 @@
   "title": "주가 계속 떨어져도 내년 반도체 호황?…삼전닉스 한번 더 믿어보라는 전망 나왔는데",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:25+00:00"
+  "checked_at": "2026-11-26T04:22:40+00:00"
  },
  "708571f1940c": {
   "url": "https://www.etnews.com/20261120000267",
@@ -1789,7 +1709,7 @@
   "title": "스스로 길 찾고 균형까지…산길 달리는 'AI 자전거 로봇'",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:26+00:00"
+  "checked_at": "2026-11-26T04:22:41+00:00"
  },
  "545f5ee11f69": {
   "url": "https://www.etnews.com/20261120000238",
@@ -1797,7 +1717,7 @@
   "title": "메모리 가격 폭등에 PC 사양 '역주행'…고육지책 꺼낸 제조사",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:26+00:00"
+  "checked_at": "2026-11-26T04:22:41+00:00"
  },
  "a962189e50ba": {
   "url": "https://www.yna.co.kr/view/AKR20261124122100051",
@@ -1805,7 +1725,7 @@
   "title": "\"항만공사 통합은 자율성 훼손…연구용역 중단해야\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:26+00:00"
+  "checked_at": "2026-11-26T04:22:42+00:00"
  },
  "39fb5103ddcc": {
   "url": "https://www.etnews.com/20261124000378",
@@ -1813,7 +1733,7 @@
   "title": "[2027 삼성전자 인사] 'HBM4 주역' 전면에…반도체가 승진자 절반 넘었다",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:27+00:00"
+  "checked_at": "2026-11-26T04:22:42+00:00"
  },
  "3d1527cfd545": {
   "url": "https://www.etnews.com/20261124000352",
@@ -1821,7 +1741,7 @@
   "title": "[기획 박스]삼성 전자계열사, '차별화 기술·미래 성장' 기여자 승진 집중",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:27+00:00"
+  "checked_at": "2026-11-26T04:22:43+00:00"
  },
  "f9299d59475e": {
   "url": "https://www.etnews.com/20261124000348",
@@ -1829,7 +1749,7 @@
   "title": "[뉴스줌인]젠슨 황 복귀에 안도한 韓 반도체…'美 수출통제' 새 변수",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:28+00:00"
+  "checked_at": "2026-11-26T04:22:44+00:00"
  },
  "f3718a3f2fab": {
   "url": "https://www.etnews.com/20261124000060",
@@ -1837,7 +1757,7 @@
   "title": "삼성전자 임원 131명 승진…역대 최대 실적에도 30명 줄이고 반도체 집중",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:29+00:00"
+  "checked_at": "2026-11-26T04:22:45+00:00"
  },
  "68c87429d1d4": {
   "url": "https://www.yna.co.kr/view/AKR20261125099400054",
@@ -1845,7 +1765,7 @@
   "title": "민형배 \"반도체·통합지원금 활용계획 이번주까지 수립\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:51+00:00"
+  "checked_at": "2026-11-26T04:22:45+00:00"
  },
  "abf432bdd74b": {
   "url": "https://www.yna.co.kr/view/AKR20261125102600003",
@@ -1853,7 +1773,7 @@
   "title": "중견기업 3분기 수출 368억달러…2개 분기 연속 역대 최고",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:51+00:00"
+  "checked_at": "2026-11-26T04:22:45+00:00"
  },
  "d46f64b08beb": {
   "url": "https://www.yna.co.kr/view/AKR20261125095200004",
@@ -1861,7 +1781,7 @@
   "title": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:52+00:00"
+  "checked_at": "2026-11-26T04:22:45+00:00"
  },
  "b955b6ee9341": {
   "url": "https://www.yna.co.kr/view/AKR20261125083400054",
@@ -1869,7 +1789,7 @@
   "title": "민형배 전남광주시장 \"반도체 팹 건설인력 1만호 공공임대 필요\"",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:52+00:00"
+  "checked_at": "2026-11-26T04:22:46+00:00"
  },
  "cef3b3b32d21": {
   "url": "https://www.yna.co.kr/view/AKR20261125072000054",
@@ -1877,7 +1797,7 @@
   "title": "호남 반도체 용수 공급 덕남정수장 생산량 2배로 늘린다",
   "publisher": "연합뉴스 산업 최신기사",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:52+00:00"
+  "checked_at": "2026-11-26T04:22:46+00:00"
  },
  "d0620c9fe311": {
   "url": "https://www.etnews.com/20261125000095",
@@ -1885,7 +1805,7 @@
   "title": "코스피, 하루 만에 5000선 반납…삼성전자·SK하이닉스 6%대 급락",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:52+00:00"
+  "checked_at": "2026-11-26T04:22:47+00:00"
  },
  "8bdd02be158d": {
   "url": "https://www.etnews.com/20261124000441",
@@ -1893,7 +1813,7 @@
   "title": "증안펀드 미동 없던 코스피...'젠슨 황 복귀'로 단숨에 '5000피' 회복",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:53+00:00"
+  "checked_at": "2026-11-26T04:22:47+00:00"
  },
  "d67ff4fbe915": {
   "url": "https://www.etnews.com/20261124000137",
@@ -1901,7 +1821,7 @@
   "title": "[2026 민·관 R&D 혁신포럼]R&D 협의체 활동 유공자 10명 부총리 표창 수여",
   "publisher": "오늘의뉴스 - 이티뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:54+00:00"
+  "checked_at": "2026-11-26T04:22:48+00:00"
  },
  "1aced4c57757": {
   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507551",
@@ -1909,6 +1829,102 @@
   "title": "원익IPS까지 매수세 집중…반도체 장비주, 전공정 투자 기대 커졌다",
   "publisher": "핀포인트뉴스",
   "link_status": "정상",
-  "checked_at": "2026-11-25T05:02:48+00:00"
+  "checked_at": "2026-11-26T04:22:48+00:00"
+ },
+ "938b14a765ca": {
+  "url": "https://www.saegeoje.com/news/articleView.html?idxno=311166",
+  "url_type": "원문",
+  "title": "거제해양관광개발공사, 사곡 주차장에 AI 기반 옹벽 계측기 설치",
+  "publisher": "새거제신문",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:22:55+00:00"
+ },
+ "213964da98ab": {
+  "url": "https://www.geojejournal.co.kr/news/articleView.html?idxno=209205",
+  "url_type": "원문",
+  "title": "거제해양관광개발공사, 사곡 주차장 옹벽 스마트 계측기 4대 설치…균열·기울기 측정",
+  "publisher": "거제저널",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:22:57+00:00"
+ },
+ "65c319bd0313": {
+  "url": "https://www.yna.co.kr/view/AKR20261126098451002",
+  "url_type": "원문",
+  "title": "신현송 \"반도체 올해 영업익 700조원…국민경제 파급 시간문제\"(종합)",
+  "publisher": "연합뉴스 산업 최신기사",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:16+00:00"
+ },
+ "7b929371f8bc": {
+  "url": "https://www.yna.co.kr/view/AKR20261126102000002",
+  "url_type": "원문",
+  "title": "한은 총재 \"반도체 시총 2천조, 수익 3배밖에 안돼…설명 불가\"",
+  "publisher": "연합뉴스 산업 최신기사",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:18+00:00"
+ },
+ "512687c0c0a0": {
+  "url": "https://www.yna.co.kr/view/AKR20261126098400002",
+  "url_type": "원문",
+  "title": "한은 총재 \"올해 명목GDP 3천조원 상회…반도체 영업익 700조원\"",
+  "publisher": "연합뉴스 산업 최신기사",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:18+00:00"
+ },
+ "2b736f75ca7a": {
+  "url": "https://www.yna.co.kr/view/AKR20261126092000002",
+  "url_type": "원문",
+  "title": "[속보] 한은 총재 \"올해 명목GDP 3천조원 상회…반도체 영업익 700조원\"",
+  "publisher": "연합뉴스 산업 최신기사",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:19+00:00"
+ },
+ "2b9c969ef596": {
+  "url": "https://www.yna.co.kr/view/AKR20261126084300003",
+  "url_type": "원문",
+  "title": "삼성전자, 메모리사업부장 직속 개발체제로…미주법인장 윤하룡",
+  "publisher": "연합뉴스 산업 최신기사",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:19+00:00"
+ },
+ "0853268004e2": {
+  "url": "https://www.etnews.com/20261126000125",
+  "url_type": "원문",
+  "title": "한은, 기준금리 3.25%로 인상…다시 긴축",
+  "publisher": "오늘의뉴스 - 이티뉴스",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:19+00:00"
+ },
+ "6461900f81a9": {
+  "url": "https://www.etnews.com/20261125000611",
+  "url_type": "원문",
+  "title": "에니트, 'AI·광센서'로 컨베이어 중대재해 잡는다",
+  "publisher": "전자신문",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:10+00:00"
+ },
+ "ffda1c078c6c": {
+  "url": "https://www.etnews.com/20261126000051",
+  "url_type": "원문",
+  "title": "美 수출통제에도 中 화창베이 암시장 '엔비디아 칩' 버젓이 유통",
+  "publisher": "오늘의뉴스 - 이티뉴스",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:20+00:00"
+ },
+ "666d69f07fca": {
+  "url": "https://www.etnews.com/20261125000570",
+  "url_type": "원문",
+  "title": "삼성전자, ISSCC 2027서 '500단대 낸드' 메모리 기술 공개",
+  "publisher": "오늘의뉴스 - 이티뉴스",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:21+00:00"
+ },
+ "ff0926dca793": {
+  "url": "https://www.etnews.com/20261125000537",
+  "url_type": "원문",
+  "title": "김정관 “中에 R&D부터 밀린다”…주52시간 특례 '반도체부터'",
+  "publisher": "오늘의뉴스 - 이티뉴스",
+  "link_status": "정상",
+  "checked_at": "2026-11-26T04:23:22+00:00"
  }
 }
